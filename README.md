@@ -153,6 +153,9 @@ you can see the status
 ![](assets/2024-05-22-14-21-12.png)
 ![](assets/2024-05-22-14-21-36.png)
 ![](assets/2024-05-22-14-33-05.png)
+and finlly you can pull it
+![](assets/2024-05-22-14-54-18.png)
+
 ## Conclusion
 
 By following these steps, you have set up a GitHub Actions workflow that automates the process of building and pushing Docker images to Docker Hub. This automation ensures that your Docker images are always up-to-date with the latest changes in your repository, streamlining your development and deployment workflows.
